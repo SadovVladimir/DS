@@ -1,3 +1,4 @@
+# Для корректной работы программы, необходимо загрузить библиотеки pandas и matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
 ap = pd.read_csv('apple.csv')
